@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Helljjjjjjo!");
+Console.WriteLine("He!");
+Console.WriteLine("slam");
